@@ -7,5 +7,6 @@ export default defineConfig({
     host: '0.0.0.0',
     port: 54706,
     cors: true
-  }
+  },
+  base: '/ai-timeline-2022-2023/'
 })
